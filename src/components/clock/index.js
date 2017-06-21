@@ -1,1 +1,1 @@
-export { Clockface } from './Clockface.js'
+export { Clockface } from './Clockface.js';
